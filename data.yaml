@@ -1,0 +1,9 @@
+path: /home/viva/Escritorio/Yolo/Person Detection.v3i.yolov8
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['person']
+
+
